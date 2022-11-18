@@ -71,3 +71,39 @@ span{
     margin-right: 20px;
     margin-left: 20px;
 }
+
+@media screen and (max-width: 850px) {
+    #tempCalc{
+        width: 800px;
+    }
+}
+@media screen and (max-width: 800px) {
+    #tempCalc{
+        width: 700px;
+    }
+}
+@media screen and (max-width: 700px) {
+    #tempCalc{
+        width: 600px;
+    }
+}
+@media screen and (max-width: 600px) {
+    #tempCalc{
+        width: 500px;
+    }
+}
+@media screen and (max-width: 500px) {
+    #tempCalc{
+        width: 400px;
+    }
+}
+@media screen and (max-width: 400px) {
+    #tempCalc{
+        width: 370px;
+    }
+}
+@media screen and (max-width: 370px) {
+    #tempCalc{
+        width: 200px;
+    }
+}
